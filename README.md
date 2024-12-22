@@ -1,5 +1,7 @@
 # UAS_PemrogramanBerbasisObjek!
+
 [DagramClass](https://github.com/user-attachments/assets/0d3c6168-af9e-42a2-9fb2-6060cd7c37f6)
+
 # Tile Game
 
 ## Diagram Kelas dan Struktur Kelas
@@ -99,5 +101,4 @@ Kelas `GameManager` adalah pengontrol utama yang mengatur seluruh alur permainan
 
 ---
 
-**Selamat Bermain!**
 
